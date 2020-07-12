@@ -1,0 +1,228 @@
+
+body {
+    background:#fff;
+}
+
+
+/* Link Color */
+
+a, .la-ball-triangle-path {
+    color:#F3904F;
+}
+
+a:hover, #header.nav-solid nav a:hover {
+    color:#F3904F;
+}
+
+/* Icon Color */
+
+.icon i {
+    color:#F3904F;
+}
+
+/* Border Color */
+
+#banner .section-heading:before, .testimonial.classic footer:before {
+    background: #F3904F;
+}
+
+
+/* Transparent Navigation Color on a Banner */
+
+#header nav a, #header i {
+    color:#111;
+}
+
+
+/* Navigation Colors when the Navigation is sticky and solid */ 
+
+#header.nav-solid, #header.nav-solid a, #header.nav-solid i, #nav-mobile ul li a {
+    color:#333;
+}
+
+
+/* Navigation Active State */
+
+#header.nav-solid .active {
+    color: #F3904F;
+}    
+
+
+/* Primary Background and Text Colors */
+
+.primary-color {
+    background-color:#F3904F;
+}
+
+.primary-color, .primary-color .section-title, .primary-color p {
+    color:#fff;    
+}
+
+.section-heading h2:before {
+    background:#3B4371;
+    content:"";
+    display:block;
+    width:50px;
+    height:5px;
+    margin:30px 0;
+}
+
+.text-center .section-heading h2:after {
+    margin:30px auto 25px auto;
+}
+
+/* Primary Icon Colors */
+
+.primary-color .icon i, .primary-color i {
+    color:#fff;
+}
+
+
+/* Secondary Background and Text Colors */
+
+.secondary-color {
+    background-color:#f5f5f5;
+}
+
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size:15px;
+    font-weight:normal;
+    color:#111;
+}
+
+/* Logo, if you are using Fonts as Logo and not image
+
+#logo h1 {
+    font-family:;
+    font-size:; 
+    font-weight:;
+    color:;
+}
+
+#logo h2 {
+    font-family:;
+    font-size:; 
+    font-weight:;
+    color:;
+}
+
+*/
+
+
+/* Banner Typography */
+
+#banner h1 {
+    font-family: 'Roboto', sans-serif;
+    font-size:62px;
+    line-height:60px;
+    font-weight:800;
+    color:#111;
+}
+
+#banner h2 {
+    font-family: 'Roboto', sans-serif;
+    font-size:18px;
+    font-weight:300;
+    color:#111;
+}
+
+
+/* Section Title and Subtitle */
+
+.section-title {
+    font-family: 'Roboto', sans-serif;
+    font-size: 34px; 
+    font-weight:700;
+    color:#111;
+}
+
+.section-subtitle {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight:300;
+    color:#808080;
+}
+
+/* Standard Headings h1-h6 */
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 40px; 
+    font-weight:300;
+    color:#111;
+}
+
+h2 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 34px; 
+    font-weight:300;
+    color:#111;
+}
+
+h3 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px; 
+    font-weight:700;
+    color:#111;
+}
+
+h4 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px; 
+    font-weight:400;
+    color:#111;
+}
+
+h5 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px; 
+    font-weight:400;
+    color:#111;
+}
+
+h6 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px; 
+    font-weight:400;
+    color:#111;
+}
+
+
+/* Button Text */
+
+.button, input[type="submit"]  {
+    font-family: 'Roboto', sans-serif;
+    font-size:14px;
+    font-weight:bold;
+    color:#111;
+}
+
+
+/* Button Color */
+
+.button, input[type="submit"] {
+    border-color:#111;
+}
+
+
+/* Button Hover Color */
+
+.button:hover,  input[type="submit"]:hover {
+    border-color:#F3904F;
+    color:#F3904F;
+}
+
+#footer, #footer p, #footer a {
+    font-family: 'Roboto', sans-serif;
+    font-size:12px;
+    font-weight:normal;
+    color:#999;
+}
+
+/* Footer Icon Color */
+
+#footer i {
+    color:#999;
+}
