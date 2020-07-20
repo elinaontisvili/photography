@@ -6,3 +6,6 @@ HTML/Bootstrap Personal Photography Website
 - One Page Layout
 - Styled with: Custom CSS
 - Fully Responsive
+
+<h4>Photography Ownership</h4>
+©Elina Ontisvili
