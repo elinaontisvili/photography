@@ -675,11 +675,11 @@ h6 {
    max-height: 314px;
 }
 
-#gallery .wires-size img {
+#gallery-wires-size img {
  max-height: 100%;
 }
 
-#gallery .portrait-city-size img {
+#gallery-portrait-city-size  img {
  max-height: 308px;
 }
 
