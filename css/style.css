@@ -687,6 +687,10 @@ h6 {
  max-height: 308px;
 }
 
+#gallery-portrait-city-size img col-5 {
+ padding: 5px;
+}
+
 #gallery [class*='col-'] {
     padding: 0;
 }
