@@ -149,7 +149,7 @@ section {
 
 [class*='col-'] {
     float: left;
-    padding: 20px;
+    padding: 5px;
 }
 
 #clients .col-2-3 [class*='col-'] {
@@ -675,20 +675,12 @@ h6 {
    max-height: 314px;
 }
 
-#gallery-wires-size img {
+#gallery .wires-size img {
  max-height: 100%;
 }
 
-#gallery-wires-size img .col-5 {
- padding: 5px;
-}
-
-#gallery-portrait-city-size img {
+#gallery .portrait-city-size img {
  max-height: 308px;
-}
-
-#gallery-portrait-city-size img .col-5 {
- padding: 5px;
 }
 
 #gallery [class*='col-'] {
