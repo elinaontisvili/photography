@@ -675,6 +675,10 @@ h6 {
    max-height: 314px;
 }
 
+.gallery-wires-size {
+ max-height: 100%;
+}
+
 #gallery [class*='col-'] {
     padding: 0;
 }
