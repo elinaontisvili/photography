@@ -296,7 +296,11 @@ section {
 }
 
 #navigation-logo {
-    display: none;
+  display: none;
+  font-size: 2.5rem;
+  font-weight: 400;
+  text-transform: uppercase;
+
 }
 
 .nav-solid #logo #banner-logo {
