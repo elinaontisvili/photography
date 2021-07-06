@@ -305,6 +305,11 @@ section {
 
 .nav-solid #logo #navigation-logo {
     display: inline-block;
+    font-size: 28px;
+    font-weight: 800;
+    letter-spacing: -0.5px;
+    font-family: "Open Sans";
+    text-transform: uppercase;
 }
 
 /* --------- 2.3 Buttons ---------- */
